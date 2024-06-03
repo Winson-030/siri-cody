@@ -1,6 +1,6 @@
-# Siri Ultra
+# Cody
 
-This is a Siri Ultra that works with Apple Shortcuts removing the need for a dedicated hardware device.
+Cody is a Siri Ultra fork that works with Apple Shortcuts removing the need for a dedicated hardware device.
 
 ## How it works
 
